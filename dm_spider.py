@@ -8,7 +8,7 @@ import pandas
 import time
 from tqdm import tqdm
 
-#爬取中华灯谜库谜题
+#爬取中华灯谜库相关谜题
 
 URL = ''
 
